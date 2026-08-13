@@ -3,6 +3,6 @@
   "private": true,
   "main": "./src/main.ts",
   "scripts": {
-    "start": "tsx src/main.ts"
+    "start": "node init && tsx src/main.ts"
   }
 }
